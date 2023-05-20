@@ -5,10 +5,10 @@
         </tr>
         <tr>
             <td>E-mail:</td>
-            <td>Dado 2</td>
+            <td>mayalakerciane@gmail.com</td>
         </tr>
         <tr>
-            <td>mayalakerciane@gmail.com</td>
-            <td>Dado 5</td>
+            <td>Telefone</td>
+            <td>71 9 9142-1662</td>
         </tr>
     </table>
