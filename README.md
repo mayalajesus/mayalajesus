@@ -1,9 +1,9 @@
-## Olá, sou a Mayala 👋🏽
+# Olá, sou a Mayala 👋🏽
 Bem-vindo ao meu repositório de dados! 
 Aqui, você encontrará projetos de Ciência de Dados que desenvolvi com muita dedicação. 
 Explore meus projetos e junte-se a mim nesta jornada de descobertas!
 
-### 🙋🏽 Quem Sou Eu
+## 🙋🏽 Quem Sou Eu
 Sou movida pela curiosidade inata e apaixonada pela vida e suas emocionantes aventuras. Amo surfar e mergulhar, explorando a vida com intensidade. Além disso, tenho um encanto especial por design, comunicação, política e economia.
 
 O mundo dos dados me fascina, pois me proporciona aprendizado diário e a oportunidade de aplicar minhas habilidades naturais e conhecimento acadêmico. Cada projeto é uma jornada única, e estou animada para compartilhar minhas explorações com você!
