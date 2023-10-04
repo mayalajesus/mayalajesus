@@ -9,7 +9,7 @@ Sou movida pela curiosidade inata e apaixonada pela vida e suas emocionantes ave
 O mundo dos dados me fascina, pois me proporciona aprendizado diário e a oportunidade de aplicar minhas habilidades naturais e conhecimento acadêmico. Cada projeto é uma jornada única, e estou animada para compartilhar minhas explorações com você!
 
 ## 📚 Formação  
-⚡ Formação completa em Ciência de Dados: Udemy <br>
+⚡ Formação plena em Ciência de Dados: Udemy <br>
 ⚡ Curso de Python do Básico ao Avançado: Udemy <br>
 ⚡ Data Analysis with Python: IBM/Cousera <br>
 ⚡ Google Analytics para iniciantes: Google Academy <br>
