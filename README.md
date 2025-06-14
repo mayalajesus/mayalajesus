@@ -5,14 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Sobre+Mim&message=Mayala+Jesus&color=F2F2F2&style=for-the-badge&logo=github&logoColor=black" />
-  <a href="https://www.linkedin.com/in/mayala-kerciane/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Perfil+Profissional&color=00BFA6&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mayala-jesus/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil%20Profissional-00BFA6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=008C7E" 
+    />
   </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/static/v1?label=Contato&message=Email&color=26C6DA&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mayalakerciane@gmail.com">
+    <img 
+      alt="Email" 
+      title="Entre em contato por email" 
+      src="https://custom-icon-badges.demolab.com/badge/Email-Mayala%20Kerciane-26C6DA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1CA6B5"
+    />
   </a>
 </p>
+
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=mayalajesus&show_icons=true&title_color=00796B&text_color=004D40&icon_color=009688&bg_color=F5F9F6&hide_border=true&cache_seconds=1800" />
 
