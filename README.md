@@ -67,9 +67,6 @@ Tenho paixão por resolver gargalos com código e tornar a rotina de times de ma
 ---
 
 ### Projetos em Destaque
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFA6&center=true&vCenter=true&lines=Automação+de+dados;APIs+que+integram+ideias;Dashboards+que+falam+com+o+negócio" />
-</p>
 
 <table align="center" style="border:1px solid #00BFA6;border-radius:8px;border-collapse:collapse;overflow:hidden;margin:auto;font-family:sans-serif;font-size:14px;">
   <thead style="background-color:#00BFA6;color:#fff;">
