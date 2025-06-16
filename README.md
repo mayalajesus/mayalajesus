@@ -16,7 +16,7 @@
     <img 
       alt="Email" 
       title="Entre em contato por email" 
-      src="https://custom-icon-badges.demolab.com/badge/Email-Mayala%20Kerciane-26C6DA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1CA6B5"
+      src="https://custom-icon-badges.demolab.com/badge/Email-Mayala%20Jesus-26C6DA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1CA6B5"
     />
   </a>
 </p>
