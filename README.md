@@ -6,8 +6,6 @@ Data Engineer & Freelance Developer
 
 <sub>Building data systems, tracking and infrastructure for digital products</sub>
 
-<br>
-
 </div>
 
 ---
@@ -37,7 +35,6 @@ Focused on marketing analytics, data infrastructure and scalable workflows.
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/APIs-111111?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/ETL-111111?style=flat&logo=apacheairflow&logoColor=white">
@@ -55,13 +52,3 @@ Focused on marketing analytics, data infrastructure and scalable workflows.
 
 </p>
 
----
-
-## ⌁ Mindset
-
-```txt
-Less noise
-More signal
-
-Less manual
-More systems
