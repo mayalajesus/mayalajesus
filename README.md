@@ -1,53 +1,67 @@
-# Mayala Jesus
+<div align="left">
 
-> automação de processos • dados • eficiência operacional
+# ⌁ Mayala Jesus
 
----
+Data Engineer & Freelance Developer
 
-## sobre
+<sub>Building data systems, tracking and infrastructure for digital products</sub>
 
-analista de dados e automações focada em construir sistemas que reduzem trabalho manual e melhoram decisões através de dados.
+<br>
 
-trabalho com:
-
-- engenharia de dados aplicada a marketing
-- automações com make e n8n
-- dashboards e visualização de dados
-- integrações entre sistemas
+</div>
 
 ---
 
-## foco atual
+## ↳ About
 
-⌁ automação de processos de marketing e e-commerce  
-⌁ pipelines de dados com baixa manutenção  
-⌁ sistemas simples que escalam operações  
+I build pipelines, integrations and tracking systems with GTM.
 
----
-
-## stack
-
-python • sql • postgresql • make • n8n • looker studio
+Focused on marketing analytics, data infrastructure and scalable workflows.
 
 ---
 
-## projetos
+## ⌁ Work
 
-- automações de marketing com integração de APIs
-- dashboards de performance para e-commerce
-- sistemas de extração e organização de dados
-
----
-
-## filosofia
-
-menos ferramenta. mais sistema.  
-menos manual. mais fluxo.  
-menos complexidade. mais clareza.
+• Data Engineering & ETL  
+• Web Tracking & Analytics  
+• API Integrations  
+• Dashboards & BI  
+• Automation via code  
 
 ---
 
-## contato
+## ⌁ Stack
 
-email: seuemail@exemplo.com  
-linkedin: linkedin.com/in/seu-perfil  
+### Data Engineering & Backend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/APIs-111111?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/ETL-111111?style=flat&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-111111?style=flat&logo=githubactions&logoColor=white">
+
+</p>
+
+### Analytics & Tracking
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Google_Tag_Manager-111111?style=flat&logo=googletagmanager&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Analytics-111111?style=flat&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/BI-111111?style=flat&logo=looker&logoColor=white">
+
+</p>
+
+---
+
+## ⌁ Mindset
+
+```txt
+Less noise
+More signal
+
+Less manual
+More systems
