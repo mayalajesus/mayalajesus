@@ -8,15 +8,12 @@ Data Engineer & Freelance Developer
 
 </div>
 
----
-
 ## ↳ About
 
 I build pipelines, integrations and tracking systems with GTM.
 
 Focused on marketing analytics, data infrastructure and scalable workflows.
 
----
 
 ## ⌁ Work
 
@@ -26,7 +23,6 @@ Focused on marketing analytics, data infrastructure and scalable workflows.
 • Dashboards & BI  
 • Automation via code  
 
----
 
 ## ⌁ Stack
 
