@@ -8,7 +8,7 @@ Data Engineer & Freelance Developer
 
 </div>
 
-## ↳ About
+## ⌁ About
 
 I build pipelines, integrations and tracking systems with GTM.
 
