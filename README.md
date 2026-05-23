@@ -1,28 +1,53 @@
-# Olá, eu sou a Mayala
+# Mayala Kerciane
 
-Engenheira e analista de dados focada em transformar dados em sistemas automatizados e decisões de negócio.
-
-Atuo com engenharia de dados, automação de processos e analytics aplicado a marketing e e-commerce, conectando múltiplas fontes de dados em pipelines e dashboards acionáveis.
+> automação de processos • dados • eficiência operacional
 
 ---
 
-## O que eu faço
+## sobre
 
-* Construção de pipelines de dados e integrações via APIs
-* Automação de processos e fluxos operacionais
-* Modelagem de métricas e criação de dashboards para tomada de decisão
+analista de dados e automações focada em construir sistemas que reduzem trabalho manual e melhoram decisões através de dados.
 
----
+trabalho com:
 
-## Stack
-
-* Python • SQL • PostgreSQL
-* APIs REST • FastAPI (em uso/estudo)
-* Make • n8n • Automa
-* Looker Studio • Google Sheets
+- engenharia de dados aplicada a marketing
+- automações com make e n8n
+- dashboards e visualização de dados
+- integrações entre sistemas
 
 ---
 
-## Foco
+## foco atual
 
-Construir sistemas de dados simples, automatizados e orientados a impacto real no negócio.
+⌁ automação de processos de marketing e e-commerce  
+⌁ pipelines de dados com baixa manutenção  
+⌁ sistemas simples que escalam operações  
+
+---
+
+## stack
+
+python • sql • postgresql • make • n8n • looker studio
+
+---
+
+## projetos
+
+- automações de marketing com integração de APIs
+- dashboards de performance para e-commerce
+- sistemas de extração e organização de dados
+
+---
+
+## filosofia
+
+menos ferramenta. mais sistema.  
+menos manual. mais fluxo.  
+menos complexidade. mais clareza.
+
+---
+
+## contato
+
+email: seuemail@exemplo.com  
+linkedin: linkedin.com/in/seu-perfil  
